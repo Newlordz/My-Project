@@ -1,0 +1,453 @@
+body{
+    padding: 0;
+    border: 0;
+    margin: 0;
+       background-color: #f6f6f6;
+    overflow-y: scroll;
+   
+}
+
+
+
+.hp-pic1{
+    width: 1440px;
+    height: 230px;
+    margin-left: 50px;
+}
+
+.img{
+    height: 160px;
+    width: 900px;
+    margin-left: 250px;
+}
+
+.container{
+    display: flex;
+    margin-left: 250px;
+}
+
+.box1{
+    flex-direction: row;
+    padding-left: 270px;
+}
+
+.lk :hover{ 
+    color: dodgerblue;
+}
+
+.search-box{
+    width: 1200px;
+    height: 200px;
+    border: 1px solid;
+    margin-top: 40px;
+    margin-left: 155px;
+   background-image: url(css%20pics/pattern3.png);
+    
+}
+
+.search{
+    width: 450px;
+    height: 40px;
+    margin-left: 60px;
+    margin-top: 10px;
+    border-radius: 20px;
+    border: none;
+    
+}
+
+.button{
+    color: white;
+    background-color: lightseagreen;
+    border: none;
+    position: absolute;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 40px;
+}
+   
+
+.gn1{
+    margin-left: 800px;
+    margin-top: 30px;
+    border-bottom: 10px black solid;
+}
+
+.sub{
+    margin-top: 10px;
+    margin-left: 180px;
+    
+   ;
+   
+}
+
+.gn{
+    font-size: 20px;
+    margin: 5px;
+}
+
+.gn2{
+    margin-left: 800px;
+
+}
+
+.br{
+    margin: 0 50px 45px 750px;
+    border-top: 1px black solid;
+    
+}
+
+.pg1{
+    width: 1506px;
+    height: 25px;
+    color: ghostwhite;
+    margin-left: 5px;
+    border-radius: 20px;
+    background-image: url(css%20pics/pattern3.png);
+    background-size: cover;
+}
+
+.pg-1{
+    margin-left: 60px;
+}
+
+.pg-numb{
+    margin-left: 1100px;
+}
+
+.pg-numb2{
+    width:20px;
+    border-radius: 15px;
+}
+
+
+
+.container2{
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 5px;
+   
+    
+}
+
+.box2{
+    height: 450px;
+    width: 450px;
+    border: 5px solid indigo;
+    background-image: url(movie%20pics/black-adamjpg.jpg);
+    background-size: cover;
+}
+
+.box3{
+     height: 450px;
+    width: 450px;
+    border: 5px solid red;
+    background-image: url(movie%20pics/balck-panther.png);
+    background-size: cover;
+}
+
+.box4{
+     height: 450px;
+    width: 450px;
+    border: 5px solid blue;
+    background-image: url(movie%20pics/mornius.jpg);
+    background-size:cover;
+}
+
+
+.box5{
+    height: 450px;
+    width: 450px;
+    border: 5px solid yellow;
+    background-image: url(movie%20pics/thor.png);
+    background-size: cover;
+}
+
+.box6{
+    height: 450px;
+    width: 450px;
+    border: 5px solid green;
+    background-image: url(movie%20pics/spiderman.png);
+    background-size: cover;
+}
+
+.fa {
+
+   
+}
+
+
+.container3{
+    height: 20px;
+    width: 1490px;
+    display: flex;
+    justify-content: space-between;
+     border: 2px black dotted;
+    border-left: none;
+    border-right: none;
+    margin-left: 15px;
+    
+}
+
+.menu-item1{
+    color: gold;
+    
+}
+
+.menu-item2{
+    color: lightgreen;
+    
+}
+
+
+.menu-item3{
+    color: gold;
+    
+}
+
+.menu-item4{
+    color: crimson;
+    
+}
+
+
+.home-content{
+    height: 50px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.vid{
+    position: absolute;
+    
+    
+}
+.menu-title{
+    font-size: 30px;
+    height: 50px;
+    margin-left: 120px;
+    border-left: 5px  blue solid;
+    padding: 20px;
+    color: orangered;
+}
+
+.space{
+    width: 50px;
+    height: 40px;
+    background-color: lightgray;
+    border-radius: 6px;
+    padding-right:600px; 
+    margin-top: 20px;
+}
+
+.srch-1{
+    height: 30px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 5px;
+    border-radius: 30px;
+    border: 5px;
+    background-color: lightblue;
+}
+
+.des{
+    height: 40px;
+    margin-left: 700px;
+    border-left: 3px blue solid;
+}
+
+.mv-pg1{
+    width: 100px;
+    height: 50px;
+    background-image: url(movie%20pics/prey.png);
+    background-size: cover;
+    margin-left: 120px;
+    padding-bottom: 180px;
+    padding-right: 50px;
+    border-left: 5px blue solid
+}
+
+
+
+
+
+
+.prey{
+    margin-left: 170px;
+}
+
+.prey-p{
+    margin-left: 170px;
+    
+}
+
+.mv-pg2{
+    width: 100px;
+    height: 50px;
+    background-image: url(movie%20pics/bullet-train.jpg);
+    background-size: cover;
+    margin-left: 120px;
+    padding-bottom: 180px;
+    padding-right: 50px;
+    border-left: 5px blue solid
+}
+.bullet{
+    margin-left: 170px;
+}
+
+.bullet-p{
+    margin-left: 170px;
+    
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.main-list{
+    margin-left: 
+}
+
+.mv-list{
+    margin-left: 40px;
+    padding: 8px;
+    color: blue;
+
+}
+
+.li-cl:hover{
+    color: orangered;
+}
+
+
+.more{
+    
+   
+}
+
+
+
+.mv-pg3{
+    width: 100px;
+    height: 50px;
+    background-image: url(movie%20pics/batman.png);
+    background-size: cover;
+    margin-left: 120px;
+    padding-bottom: 180px;
+    padding-right: 50px;
+    border-left: 5px blue solid;
+}
+
+
+.mv-pg4{
+    width: 100px;
+    height: 50px;
+    background-image: url(movie%20pics/croods.jpg);
+    background-size: cover;
+    margin-left: 120px;
+    padding-bottom: 180px;
+    padding-right: 50px;
+    border-left: 5px blue solid;
+}
+
+.mv-pg5{
+    width: 100px;
+    height: 50px;
+    background-image: url(movie%20pics/doctor-strange.png);
+    background-size: cover;
+    margin-left: 120px;
+    padding-bottom: 180px;
+    padding-right: 50px;
+    border-left: 5px blue solid;
+}
+
+
+.container{
+    max-width: 1570px;
+    background-image: url(css%20pics/pattern3.png);
+    margin: auto;
+     
+}
+.row{
+    display: flex;
+    width: 1590px;
+    
+}
+.footer{
+    
+   
+    padding: 70px 0;
+    
+}
+
+ul{
+    
+    list-style: none;
+}
+
+.footer-col{
+    width:  25%;
+    padding: 0 15px;
+    
+}
+
+.footer-col h4{
+    font-size: 18px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    font-weight: 500px;
+    position: relative;
+    
+}
+
+.footer-col h4::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    background-color: #e91e63;
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+    
+}
+
+.footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+    
+    
+}
+
+.footer-col ul li a{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 300px;
+    color: #bbbbbb;
+    display: block;
+    transition: all 0.3s ease;
+}
+
+.footer-col ul li a:hover{
+    color: #ffffff;
+    padding-left: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
